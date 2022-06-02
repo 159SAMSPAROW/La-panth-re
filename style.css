@@ -183,7 +183,7 @@ a:hover {
     color: rgba(0, 0, 0, .6);
 }
 
-.d-bloc .panel .a-btn:hover {
+.d-bloc .panel .a-btn:hover .a-btn:focus{
     color: rgba(0, 0, 0, 1);
 }
 
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
