@@ -7798,6 +7798,9 @@ button.close {
     margin-left: auto
 }
 
+.image-resize-mode{
+    border-radius: 45%;
+}
 .pull-right {
     float: right !important
 }
