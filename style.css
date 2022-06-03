@@ -93,6 +93,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
+  
 }
 
 .b-parallax {
@@ -683,6 +684,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    
 }
 
 .h1 {
@@ -741,6 +743,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+   
 }
 
 .portfolio-row {
@@ -775,7 +778,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: rgba(255, 255, 255, 1)!important;
+    font-weight: bolder;
 }
 
 .btn-atomic-tangerine {
@@ -809,9 +813,7 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
-    background-image: url("img/dots-bg.webp");
-}
+
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.webp");
